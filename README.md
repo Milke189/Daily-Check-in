@@ -56,11 +56,6 @@ python checkin.py
 }
 ```
 
-## 截图
-
-<p align="center">
-  <img src="screenshot.png" width="400" alt="主界面">
-</p>
 
 ## License
 
